@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+	<title>Student Bio</title>
+</head>
+<body>
+<img src="Sandy Avatar.gif" alt="Sandy Avatar">
+
+<h1>Sandy Seay</h1>
+<p>Sandy is currently a sales manager at the Global Learning Center (GLC) on the GA Tech campus.  She works with clients that wish to book meeting space for workshops, sales meeting, conferences and networking events.  The GLC is a day meeting facility with built-in audio visual, wi-fi and video caonferencing capabilities in each meeting room.
+</p>
+
+<p> Sandy enjoys working in the higher education setting.  In addition to holding client meetings, the GLC is the dedicated facility for all of Georgia Tech's Professional Education short courses, master's programs and conferences.
+</p>   
+</body>
+</html>
